@@ -117,21 +117,17 @@ const amanat = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kichirouoda&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kichirouoda&theme=dracula" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kichirouoda&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kichirouoda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kichirouoda&theme=dracula&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kichirouoda&theme=dracula&hide_border=false&layout=compact" alt="Wakatime Stats" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kichirouoda&theme=dracula&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kichirouoda&theme=dracula&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kichirouoda&theme=dracula" alt="Productive Time" />
 </div>
 
 ---
@@ -141,65 +137,6 @@ const amanat = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kichirouoda&theme=dracula&hide_border=false&area=true" alt="Contribution Graph" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kichirouoda/kichirouoda/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💼 What I Do Best
-
-<table>
-  <tr>
-    <td width="50%">
-      
-### 🔧 Backend Development
-- RESTful API Design & Development
-- Microservices Architecture
-- Database Design & Optimization
-- Authentication & Authorization (JWT, OAuth)
-- API Documentation (Swagger/OpenAPI)
-      
-    </td>
-    <td width="50%">
-      
-### ⚡ Performance & Security
-- Query Optimization & Indexing
-- Caching Strategies (Redis)
-- Load Balancing & Scaling
-- Security Best Practices (OWASP)
-- API Rate Limiting
-      
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      
-### 🚀 DevOps & Deployment
-- Containerization (Docker)
-- CI/CD Pipeline (GitLab CI)
-- Cloud Deployment (AWS)
-- Server Management (Linux)
-- Monitoring & Logging
-      
-    </td>
-    <td width="50%">
-      
-### 📚 Code Quality
-- Clean Code Principles
-- SOLID Design Patterns
-- Unit Testing (Jest)
-- Code Review & Documentation
-- Version Control (Git)
-      
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -222,29 +159,6 @@ const amanat = {
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/kichirouoda/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kichirouoda&repo=REPO_NAME_1&theme=dracula" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/kichirouoda/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kichirouoda&repo=REPO_NAME_2&theme=dracula" alt="Repo 2" />
-  </a>
-</div>
-
-> **Note:** Ganti `REPO_NAME_1` dan `REPO_NAME_2` dengan nama repository terbaik kamu
-
----
-
 <div align="center">
 
 ### 💖 Thanks for visiting my profile!
@@ -252,7 +166,5 @@ const amanat = {
 ![Visitor Count](https://profile-counter.glitch.me/kichirouoda/count.svg)
 
 **⭐ From [Amanat Nur Rochman](https://github.com/kichirouoda) with ❤️**
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
