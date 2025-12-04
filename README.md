@@ -37,7 +37,6 @@ const amanat = {
 - 💼 Experienced in **API Development** and **Database Design**
 - 🎯 Focus on **Performance Optimization** and **Security**
 - 💬 Ask me about **Node.js, Express, Database Design, API Architecture**
-- ⚡ Fun fact: I turn coffee into code! ☕️
 
 ---
 
@@ -122,11 +121,9 @@ const amanat = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kichirouoda&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kichirouoda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kichirouoda&theme=dracula&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kichirouoda&theme=dracula" alt="Productive Time" />
 </div>
 
@@ -143,14 +140,11 @@ const amanat = {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/amanat-nur-rochman-b96b5618b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nkichirou@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://github.com/kichirouoda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -159,12 +153,3 @@ const amanat = {
 
 ---
 
-<div align="center">
-
-### 💖 Thanks for visiting my profile!
-
-![Visitor Count](https://profile-counter.glitch.me/kichirouoda/count.svg)
-
-**⭐ From [Amanat Nur Rochman](https://github.com/kichirouoda) with ❤️**
-
-</div>
