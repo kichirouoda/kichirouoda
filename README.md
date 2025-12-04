@@ -1,88 +1,258 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# Hey 👋 What's up?
 
-<p align="left">I'm Amanat Nur Rochman, a passionate Backend Developer dedicated to building robust, scalable, and efficient server-side applications. I specialize in creating RESTful APIs, microservices architecture, and database optimization.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=I'm+Amanat+Nur+Rochman;Backend+Developer+%F0%9F%92%BB;Building+Scalable+APIs;Microservices+Architecture;Database+Optimization" alt="Typing SVG" />
 
-###
+<img src="https://komarev.com/ghpvc/?username=kichirouoda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🔭 Currently working on scalable backend systems<br>🌱 Learning Cloud Architecture and System Design<br>💼 Experienced in API Development and Database Design<br>🎯 Focus on Performance Optimization and Security<br>💬 Ask me about Node.js, Express, Database Design, API Architecture</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/kichirouoda/kichirouoda/output/snake.svg" alt="Snake animation" />
+## 👨‍💻 About Me
 
-###
+I'm **Amanat Nur Rochman**, a passionate **Backend Developer** dedicated to building robust, scalable, and efficient server-side applications. I specialize in creating RESTful APIs, microservices architecture, and database optimization.
+
+```javascript
+const amanat = {
+  role: "Backend Developer",
+  location: "Indonesia",
+  code: ["JavaScript", "TypeScript", "PHP", "Python", "Go"],
+  technologies: {
+    backEnd: ["Node.js", "Express", "NestJS", "Laravel", "CodeIgniter"],
+    frontEnd: ["React", "Next.js", "Angular"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    devOps: ["Docker", "AWS", "Linux", "GitLab CI/CD"],
+    testing: ["Jest"],
+    tools: ["Git", "VS Code", "Postman", "Composer", "NPM"]
+  },
+  currentFocus: "Cloud Architecture and System Design",
+  architecture: ["RESTful API", "Microservices", "MVC"]
+};
+```
+
+- 🔭 Currently working on **scalable backend systems**
+- 🌱 Learning **Cloud Architecture** and **System Design**
+- 💼 Experienced in **API Development** and **Database Design**
+- 🎯 Focus on **Performance Optimization** and **Security**
+- 💬 Ask me about **Node.js, Express, Database Design, API Architecture**
+- ⚡ Fun fact: I turn coffee into code! ☕️
+
+---
+
+## 🛠️ I Code With
+
+### Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
+</div>
+
+### Backend Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" />
+</div>
+
+### Frontend Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+</div>
+
+### Databases
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+</div>
+
+### DevOps & Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kichirouoda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kichirouoda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kichirouoda&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kichirouoda&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
-###
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kichirouoda&theme=dracula&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kichirouoda&theme=dracula&hide_border=false&layout=compact" alt="Wakatime Stats" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kichirouoda&theme=dracula&no-frame=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kichirouoda&theme=dracula&hide_border=false&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kichirouoda/kichirouoda/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💼 What I Do Best
+
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🔧 Backend Development
+- RESTful API Design & Development
+- Microservices Architecture
+- Database Design & Optimization
+- Authentication & Authorization (JWT, OAuth)
+- API Documentation (Swagger/OpenAPI)
+      
+    </td>
+    <td width="50%">
+      
+### ⚡ Performance & Security
+- Query Optimization & Indexing
+- Caching Strategies (Redis)
+- Load Balancing & Scaling
+- Security Best Practices (OWASP)
+- API Rate Limiting
+      
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      
+### 🚀 DevOps & Deployment
+- Containerization (Docker)
+- CI/CD Pipeline (GitLab CI)
+- Cloud Deployment (AWS)
+- Server Management (Linux)
+- Monitoring & Logging
+      
+    </td>
+    <td width="50%">
+      
+### 📚 Code Quality
+- Clean Code Principles
+- SOLID Design Patterns
+- Unit Testing (Jest)
+- Code Review & Documentation
+- Version Control (Git)
+      
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/kichirouoda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/kichirouoda/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kichirouoda&repo=REPO_NAME_1&theme=dracula" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/kichirouoda/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kichirouoda&repo=REPO_NAME_2&theme=dracula" alt="Repo 2" />
+  </a>
+</div>
+
+> **Note:** Ganti `REPO_NAME_1` dan `REPO_NAME_2` dengan nama repository terbaik kamu
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+![Visitor Count](https://profile-counter.glitch.me/kichirouoda/count.svg)
+
+**⭐ From [Amanat Nur Rochman](https://github.com/kichirouoda) with ❤️**
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
